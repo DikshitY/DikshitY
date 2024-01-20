@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dikshit</h1>
 <h3 align="center">A passionate Web developer from India.</h3>
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m currently working on [E-Commerce](https://github.com/DikshitY/E-Commerce)
 
 - 🌱 I’m currently learning **Express.js and Mongoose.**
 
