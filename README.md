@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dikshit</h1>
 <h3 align="center">A passionate Web developer from India.</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/DikshitY/portfolio)
+- 🔭 I’m currently working on [Stack Overflow Clone](https://github.com/DikshitY/stack_overflow_nextjs)
 
-- 🌱 I’m currently learning **Express.js and Mongoose.**
+- 🌱 I’m currently learning **NextJS.**
 
 - 💬 Ask me about **react, tailwind css and node js**
 
